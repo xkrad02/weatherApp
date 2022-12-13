@@ -6,7 +6,7 @@ Weather data from accuweather.
 
 ### Screenshot
 
-![weather](https://user-images.githubusercontent.com/101319535/207252500-83785be2-765b-44ff-bd97-d66a3f8a196d.jpg)
+![image](https://user-images.githubusercontent.com/101319535/207272269-76bb8741-e31a-4ff9-ad89-7da28f845a38.png)
 
 ## Development
 
